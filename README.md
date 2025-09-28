@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crowdfunding & Event Management Platform
 
 A comprehensive web platform for technical fest registrations and payments, built with ReactJS frontend and Django backend.
@@ -220,3 +221,7 @@ For support, email support@crowdfunding-platform.com or create an issue in the r
 - Material-UI Team
 - Razorpay for payment processing
 - MySQL Community
+=======
+# CrowndFunding-and-Event-Management-Platform
+Crowdfunding &amp; Event Management Platform – Full-stack web app with ReactJS, Django, and MySQL. Students can browse fest events, register, and pay via Razorpay. Includes admin dashboard for event management, real-time tracking, and fraud prevention.
+>>>>>>> f5a31eff210426c0bcdbc68e6eff412dd1bac184
